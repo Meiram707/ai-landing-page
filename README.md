@@ -8,7 +8,7 @@
 ## Description
 This is a simple and modern landing page built with React and styled using Tailwind CSS. It’s currently under development, with plans to add animation, async data loading, and reusable components.
 
-#Screenshots 
+## Screenshots 
 ### Hero Section
 ![Hero Section](./public/Screenshot%201.png)
 
