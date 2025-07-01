@@ -23,5 +23,8 @@ This is a simple and modern landing page built with React and styled using Tailw
 ## Status
 🚧 Work in Progress – Design and logic will be improved over time.
 
+## 🚀 Live Demo
+👉 [Check out the deployed site here](https://Meiram707.github.io/ai-landing-page)
+
 ## Author
 Meiram – Front-End Developer
