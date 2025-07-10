@@ -1,30 +1,50 @@
-# React + Vite + Tailwind Landing Page (Work in Progress)
+# 🧠 NeuroSpark Landing Page
 
-## Stack
-- React
-- Vite
-- Tailwind CSS
+**🚀 Live Demo:** [Click here to view the deployed site](https://YOUR_DEPLOYED_LINK)
 
-## Description
-This is a simple and modern landing page built with React and styled using Tailwind CSS. It’s currently under development, with plans to add animation, async data loading, and reusable components.
+A responsive, modern landing page for the fictional AI platform **NeuroSpark**, built with React, Vite, and Tailwind CSS. This project demonstrates theme switching, async data fetching from a mock API, and smooth brand animations.
 
-## Screenshots 
-### Hero Section
-![Hero Section](./public/Screenshot%201.png)
+---
 
-### Full Page
-![Full Page](./public/Screenshot%202.png)
+## ✨ Features
 
-## How to Run Locally
-1. Clone this repo
-2. Run: npm install
-        npm run dev
+- 🌗 Dark / Light theme switcher with persistence
+- 🔄 Async fake API data (loading states included)
+- 🎥 Animated brand carousel with Framer Motion
+- 📱 Fully responsive design
 
-## Status
-🚧 Work in Progress – Design and logic will be improved over time.
+---
 
-## 🚀 Live Demo
-👉 [Check out the deployed site here](https://Meiram707.github.io/ai-landing-page)
+## 🛠️ Tech Stack
 
-## Author
-Meiram – Front-End Developer
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **Framer Motion**
+
+---
+
+## 📸 Screenshots
+
+### 🌙 Dark Theme
+
+<img src="./public/Screenshot 3.png" alt="Dark theme - Brands section" width="600"/>
+<img src="./public/Screenshot 5.png" alt="Dark theme - Footer section" width="600"/>
+
+### 🌞 Light Theme
+
+<img src="./public/Screenshot 4.png" alt="Light theme - Hero section" width="600"/>
+<img src="./public/Screenshot 6.png" alt="Light theme - Features section" width="600"/>
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/neurospark.git
+cd neurospark
+npm install
+npm run dev
+```
