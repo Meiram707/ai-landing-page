@@ -41,15 +41,32 @@ This project demonstrates clean React architecture, with well-separated, single-
 
 ## 📸 Screenshots
 
-... (keep your screenshot section the same)
+### 🌙 Dark Theme
+
+<img src="./public/Screenshot 3.png" alt="Dark theme - Brands section" width="600"/>
+<img src="./public/Screenshot 5.png" alt="Dark theme - Footer section" width="600"/>
+
+### 🌞 Light Theme
+
+<img src="./public/Screenshot 4.png" alt="Light theme - Hero section" width="600"/>
+<img src="./public/Screenshot 6.png" alt="Light theme - Features section" width="600"/>
 
 ---
 
 ## 🚀 Getting Started
 
-... (keep this section the same)
+To run the project locally:
+
+git clone https://github.com/YOUR-USERNAME/neurospark.git
+cd neurospark
+npm install
+npm run dev
 
 ---
 
 📂 Project Structure  
-... (keep this section the same)
+/public # Images and brand logos
+/src
+/components # React components
+/context # Theme context and custom hook
+/services # Mock API logic
