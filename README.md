@@ -57,16 +57,30 @@ This project demonstrates clean React architecture, with well-separated, single-
 
 To run the project locally:
 
-git clone https://github.com/YOUR-USERNAME/neurospark.git
-cd neurospark
-npm install
-npm run dev
+1. Clone the repository:
+
+```bash
+   git clone https://github.com/Meiram707/ai-landing-page.git
+```
+
+2. Install dependencies:
+
+```bash
+    npm install
+```
+
+3. Start the development server:
+
+```bash
+    npm run dev
+```
 
 ---
 
-📂 Project Structure  
-/public # Images and brand logos
-/src
-/components # React components
-/context # Theme context and custom hook
-/services # Mock API logic
+## 📂 Project Structure
+
+- `/public` – Images and brand logos
+- `/src`
+  - `/components` – React components
+  - `/context` – Theme context and custom hook
+  - `/services` – Mock API logic
